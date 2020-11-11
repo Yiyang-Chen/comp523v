@@ -1,4 +1,4 @@
-## Overview of the project:
+## 0. <Herbarium Map>:
 We’d build a “world-wide map,‘blip’ every time specimen record is accessed, time-lapse for past month, post the movie-blip-map on herbarium website” and a Dynamic demonstration of collection use and scope
 
 
