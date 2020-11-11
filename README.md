@@ -7,13 +7,13 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 ### 1. Getting started:
 
-**Prerequisites:**
+-**Prerequisites:**
 
-**Installing:** 
+-**Installing:** 
 
-**Running locally:**
+-**Running locally:**
 
-**Wrranty:**
+-**Wrranty:**
 
 ### 2. Testing:
 
@@ -27,11 +27,11 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 ### 6. Authors:
 
-**Hongyu Li:**
+-**Hongyu Li:**
 
-**Yiyang Chen:** 
+-**Yiyang Chen:** 
 
-**Longbo Wei:** 
+-**Longbo Wei:** 
 
 ### 7. License:
 
