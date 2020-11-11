@@ -23,7 +23,7 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 ### 5. Contributing:
 
-**For more information:** https://tarheels.live/teamv/
+**For more information goto our** [team webpage](https://tarheels.live/teamv/)
 
 ### 6. Authors:
 
