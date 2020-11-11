@@ -28,6 +28,7 @@ Simply type ‘npm test’ in your command line to run the tests
 ### 4. Technologies used:
 
 You can find the [ADR file here](./ADR.txt).
+And the [ADR diagram here](./ADRdiagram.jpg)
 
 ### 5. Contributing:
 
