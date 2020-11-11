@@ -33,9 +33,7 @@ And the [ADR diagram here](./ADRdiagram.jpg)
 ### 5. Contributing:
 
 If you want to contribute to the project, you need to download the codes in this github.
-You can also get access to the [Trello leaderboard](https://trello.com/yiyangchen12/boards) to see what tasks are to be done.
-
-There are no special style, testing, or process conventions.
+You can also get access to the [Trello leaderboard](https://trello.com/yiyangchen12/boards) to see what tasks are to be done. There are no special style, testing, or process conventions.
 
 **For more information goto our** [team webpage](https://tarheels.live/teamv/)
 
