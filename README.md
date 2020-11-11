@@ -1,5 +1,5 @@
 ### 0. Herbarium Map:
-UNC Herbarium is the second largest Herbarium in the US and has large amounts of plant specimen collections from all over the world.  Plant specimens take up much space in buildings and are not considered useful or necessary by some people, however, the specimens are accessed constantly by researchers and scholars. 
+UNC Herbarium is the second largest Herbarium in the US and has large amounts of plant specimen collections from all over the world.  Plant specimens take up much space in   buildings and are not considered useful or necessary by some people, however, the specimens are accessed constantly by researchers and scholars. 
 
 Our client, Carol McCormick, the Curator of Herbarium, would like a web app built to show the access records of plant specimens to show the values of the specimens. 
 
@@ -7,13 +7,13 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 ### 1. Getting started:
 
-#### Prerequisites:
+**Prerequisites:**
 
-#### Installing: 
+**Installing:** 
 
-#### Running locally:
+**Running locally:**
 
-#### Wrranty: 
+**Wrranty: **
 
 ### 2. Testing:
 
@@ -23,15 +23,15 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 ### 5. Contributing:
 
-#### For more information: https://tarheels.live/teamv/
+**For more information:** https://tarheels.live/teamv/
 
 ### 6. Authors:
 
-#### Hongyu Li: 
+**Hongyu Li: **
 
-#### Yiyang Chen: 
+**Yiyang Chen:** 
 
-#### Longbo Wei: 
+**Longbo Wei:** 
 
 ### 7. License:
 
