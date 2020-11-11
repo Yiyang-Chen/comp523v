@@ -21,7 +21,7 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 ### 4. Technologies used:
 
-[ADR](comp523v/Application Architecture & Diagram.txt)
+[ADR](./Application Architecture & Diagram.txt)
 
 ### 5. Contributing:
 
