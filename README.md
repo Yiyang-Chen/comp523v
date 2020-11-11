@@ -9,24 +9,29 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 #### Prerequisites:
 
-#### 
+#### Installing: 
 
+#### Running locally:
+
+#### Wrranty: 
+
+### 2. Testing:
+
+### 3. Deployment:
+
+### 4. Technologies used:
+
+### 5. Contributing:
+
+#### For more information: https://tarheels.live/teamv/
 
 ### 6. Authors:
-Hongyu Li: Project Manager, Frontend Engineer hy124464@email.unc.edu
+Hongyu Li: 
 
-Yiyang Chen: Client Manager, Design Lead, chenyy@live.unc.edu
+Yiyang Chen: 
 
-Longbo Wei: Webmaster, Backend Engineer, lw@unc.edu
+Longbo Wei: 
 
+### 7. License:
 
-### Important Links:
-Website: https://tarheels.live/teamv/
-
-Trello: https://trello.com/b/9Crj3zGu/comp523project
-
-
-### Branches:
-We have three branches, chen/li/wei, everyone is supposed to work in their branch and merge their code to main branch after review.
-
-Test..
+### 8. Acknowledgements:
