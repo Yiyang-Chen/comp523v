@@ -26,11 +26,12 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 #### For more information: https://tarheels.live/teamv/
 
 ### 6. Authors:
-Hongyu Li: 
 
-Yiyang Chen: 
+#### Hongyu Li: 
 
-Longbo Wei: 
+#### Yiyang Chen: 
+
+#### Longbo Wei: 
 
 ### 7. License:
 
