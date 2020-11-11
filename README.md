@@ -13,7 +13,7 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 **Running locally:**
 
-**Wrranty: **
+**Wrranty:**
 
 ### 2. Testing:
 
@@ -27,7 +27,7 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 ### 6. Authors:
 
-**Hongyu Li: **
+**Hongyu Li:**
 
 **Yiyang Chen:** 
 
