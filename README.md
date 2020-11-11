@@ -21,6 +21,8 @@ Based on this, we would like to build a web-based “world-wide map,‘blip’ e
 
 ### 4. Technologies used:
 
+[ADR](comp523v/Application Architecture & Diagram.txt)
+
 ### 5. Contributing:
 
 **For more information goto our** [team webpage](https://tarheels.live/teamv/)
