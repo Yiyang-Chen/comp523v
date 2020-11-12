@@ -53,4 +53,4 @@ Problem: We need to build an easy and quick database to store the information of
 
 
 ## Architecture Diagram:
-* Architecture Diagram
+* Architecture Diagram can be found in the same floder, you can also get access to it from the link in README file
