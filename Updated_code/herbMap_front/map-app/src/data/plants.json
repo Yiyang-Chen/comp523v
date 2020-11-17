@@ -1,0 +1,51 @@
+{"plants": [
+      {
+        "occid": 6167796,
+        "catalogNumber": "NCU00145789",
+        "recordedBy": "Britt, Robert Franklin",
+        "recordNumber": 3060,
+        "eventDate": "10/10/64",
+        "country": "United States",
+        "stateProvince": "North Carolina",
+        "county": "Robeson",
+        "decimalLatitude": 34.738624,
+        "decimalLongitude": -79.054275,
+        "oasid": 50654411,
+        "accessDate": "10/10/19",
+        "cnt": 1,
+        "accesstype": "view"
+      },
+      {
+        "occid": 6175432,
+        "catalogNumber": "NCU00012752",
+        "recordedBy": "Maze, J.",
+        "recordNumber": 1007,
+        "eventDate": "6/26/93",
+        "country": "United States",
+        "stateProvince": "Oregon",
+        "county": "Wallowa",
+        "decimalLatitude": 45.7281,
+        "decimalLongitude": -117.1368,
+        "oasid": 9159144,
+        "accessDate": "3/31/18",
+        "cnt": 4,
+        "accesstype": "list"
+      },
+      {
+        "occid": 6175448,
+        "catalogNumber": "NCU00000001",
+        "recordedBy": "Harbison, Thomas Grant",
+        "recordNumber": 1061,
+        "eventDate": "4/8/13",
+        "country": "United States",
+        "stateProvince": "Mississippi",
+        "county": "Noxubee",
+        "decimalLatitude": 33.233683,
+        "decimalLongitude": -88.578742,
+        "oasid": 9159145,
+        "accessDate": "3/31/18",
+        "cnt": 3,
+        "accesstype": "list"
+      }
+]
+}
